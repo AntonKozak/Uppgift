@@ -1,0 +1,32 @@
+.container{
+    height: 11rem;
+    align-items: center;
+    display: flex;
+    margin-top: 15px;
+    border-left: 5px solid rgb(83, 220, 227);
+    border-top: 5px solid rgb(83, 220, 227);
+    border-bottom: 5px solid rgb(83, 220, 227);
+}
+
+.img1{
+    background-image: url("./bilder/tradgard1.jfif");
+}
+.img2{
+    background-image: url("./bilder/tradgard2.jfif");
+}
+.img3{
+    background-image: url("./bilder/tradgard3.jfif");
+}
+.img4{
+    background-image: url("./bilder/tradgard4.jfif");
+}
+
+h2{
+    font-size: 1.4rem;
+    color:azure;
+    padding-left: 35px;
+}
+h1{
+    padding-left: 35px;
+    font-size: 3rem;
+}
